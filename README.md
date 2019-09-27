@@ -40,4 +40,9 @@ b. MS SQLServer
 NOSQL databases:
 MongoDB
 
+4. Design Patterns.
+5. Solid Principles.
+6. Unit Testing .
+7. Servers, Build Tools and Repositories.
+
 
